@@ -64,7 +64,7 @@ AND VectorDistance(c.embedding, @inputEmbedding) < 0.4
 ---
 
 ## 📊 Architecture
-![Architecture Diagram](./digarams/architecture.png)
+![Architecture Diagram](https://github.com/mgabaloch/cosmosdb-vector-search-lab/blob/main/CosmosdbVectorSearchLab/diagrams/architecture.png)
 
 ---
 
