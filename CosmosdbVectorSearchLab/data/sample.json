@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "category": "faq",
+    "text": "What is Azure Cosmos DB?",
+    "embedding": [0.12, 0.45, 0.33, 0.67, 0.89, 0.23, 0.56, 0.78]
+  },
+  {
+    "id": "2",
+    "category": "faq",
+    "text": "How does vector search improve query results?",
+    "embedding": [0.34, 0.21, 0.87, 0.65, 0.44, 0.19, 0.73, 0.52]
+  },
+  {
+    "id": "3",
+    "category": "faq",
+    "text": "Can I combine vector search with filters?",
+    "embedding": [0.91, 0.12, 0.56, 0.48, 0.77, 0.33, 0.29, 0.64]
+  },
+  {
+    "id": "4",
+    "category": "faq",
+    "text": "What are Request Units (RUs) in Cosmos DB?",
+    "embedding": [0.25, 0.66, 0.41, 0.59, 0.72, 0.38, 0.84, 0.17]
+  },
+  {
+    "id": "5",
+    "category": "faq",
+    "text": "How do I generate embeddings using Azure OpenAI?",
+    "embedding": [0.48, 0.29, 0.63, 0.71, 0.54, 0.82, 0.36, 0.27]
+  }
+]
