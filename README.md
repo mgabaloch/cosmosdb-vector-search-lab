@@ -1,4 +1,7 @@
 # 🚀 Azure Cosmos DB for NoSQL – Vector Search Lab
+# Cosmos DB Vector Search Lab
+
+![Build Status](https://github.com/mgabaloch/cosmosdb-vector-search-lab/actions/workflows/dotnet.yml/badge.svg)
 
 ## 📖 Introduction
 This lab demonstrates how to implement **vector search** in Azure Cosmos DB for NoSQL. You’ll learn how to:
